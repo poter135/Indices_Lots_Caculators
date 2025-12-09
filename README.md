@@ -1,4 +1,3 @@
-````markdown
 # Indices_Lots_Calculators
 Enter your entry price, stop loss price, and expected maximum loss, and it will help you calculate your lot size.
 
@@ -74,5 +73,4 @@ After starting, the browser will automatically open the interface (usually http:
 
 MIT License
 
-```
 ```
