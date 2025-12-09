@@ -72,5 +72,3 @@ After starting, the browser will automatically open the interface (usually http:
 ## 📝 License
 
 MIT License
-
-```
